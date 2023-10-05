@@ -63,4 +63,4 @@ ggplot(df_plot) +
   ) +
   theme_minimal()
 
-ggsave("plot-pro_bowl.png", width = 10, height = 6)
+ggsave("plots/plot-pro_bowl.png", width = 10, height = 6)
